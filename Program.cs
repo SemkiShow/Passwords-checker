@@ -123,7 +123,7 @@ namespace Passwords_Checker
             ((watch.ElapsedMilliseconds / 1000 / 60 / 60) - (watch.ElapsedMilliseconds / 1000 / 60 / 60 / 24 * 24 * 60 * 60 * 1000)) + " hours " + 
             ((watch.ElapsedMilliseconds / 1000 / 60) - (watch.ElapsedMilliseconds / 1000 / 60 / 60 * 60 * 60 * 1000)) + " minutes " + 
             ((watch.ElapsedMilliseconds / 1000) - (watch.ElapsedMilliseconds / 1000 / 60 * 60 * 1000)) + " seconds " + 
-            ((watch.ElapsedMilliseconds) - (watch.ElapsedMilliseconds / 1000 * 1000) + " milliseconds");
+            ((watch.ElapsedMilliseconds) - (watch.ElapsedMilliseconds / 1000 * 1000)) + " milliseconds");
             Environment.Exit(1);
         }
         static void Main()
