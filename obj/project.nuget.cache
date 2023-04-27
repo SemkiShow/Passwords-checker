@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6OOD6Don8/igQrK+UvWefF2rkxduwT1umG/tUA2WDHZA/mSLxK0nO1YykK9Ag05s62eq+t5H7bE1nPnLy6sRyw==",
+  "dgSpecHash": "DC4kJAaYXUb4qUf1SX/zI6F4v+E87s+UoWjDTs05oV6A16sLFMe21okiHKAMkuH+3ve8o/IpzTY+EVdtbRhNuQ==",
   "success": true,
-  "projectFilePath": "/home/semkishow/C#/PasswordsChecker/PasswordsChecker.csproj",
+  "projectFilePath": "/home/semkishow/C#/Passwords-checker/PasswordsChecker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
